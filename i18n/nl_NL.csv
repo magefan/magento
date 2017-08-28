@@ -163,6 +163,10 @@ Pickup fee,Ophalen prijs
 Pickup Express at PostNL location,Extra vroeg ophalen bij PostNL locatie
 Pickup Express active,Extra vroeg ophalen actief
 Pickup Express fee,Extra vroeg ophalen prijs
+Pickup at Belgium PostNL location,Ophalen bij een Belgische PostNL locatie
+Pickup Belgium active,Ophalen België actief
+Pickup Belgium titel,Ophalen België titel
+Pickup Belgium fee,Ophalen België prijs
 Drop off day,Verzenddagen
 Select the days that you send the orders.,Selecteer de dagen waarop jij de orders verzend.
 Set the number of days to let the customer make an order on a different day than to deliver the first one.,Stel hier het aantal dagen in om de klant de keuze te laten maken een bestelling op een andere dag dan de eerst volgende te laten bezorgen.
