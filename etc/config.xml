@@ -77,6 +77,11 @@
                 <active>1</active>
                 <fee>1.25</fee>
             </pickup_express>
+            <pickup_belgium>
+                <active>1</active>
+                <title>Ophalen bij een PostNL locatie</title>
+                <fee>0</fee>
+            </pickup_belgium>
         </myparcelnl_magento_checkout>
         <sales_email>
             <track>
