@@ -68,7 +68,7 @@ define(
                 _hideRadios();
                 _appendTemplate();
 
-                if (myParcelOptionsActive() && _getHouseNumber() !== null) {
+                if (myParcelOptionsActive() && _getHouseNumber() !== null && window.mypa.address.postcode) {
                     _setParameters();
                     showOptions();
                 } else {
